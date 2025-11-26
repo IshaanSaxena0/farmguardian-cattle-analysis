@@ -22,7 +22,7 @@ All analytics were generated using **Python + Pandas + Matplotlib + Scikit-learn
 | `top12_states.png` | Visualization: top states by bovine population |
 | `top50_districts_bar.png` | Visualization: highest priority districts |
 | `cluster_scatter.png` | Visualization: clustering results |
-| `farmguardian_notebook.ipynb` | Full analysis notebook |
+| `catlle_analysis.ipynb` | Full analysis notebook |
 
 ---
 
